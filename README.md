@@ -14,3 +14,11 @@ Environment: venv python=3.8
 `pip install -r requirements.txt`
 
 `python app.py`
+
+### Some Results
+
+![scores](./assets/scores.png)
+
+![sorted scores](./assets/sorted%20scores.png)
+
+![linear regression graph](./assets/linear%20regression.png)
